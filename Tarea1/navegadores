@@ -1,0 +1,6 @@
+Tarea 1: ¿Que tipo de navegador usaria para cada escenario?
+1.Chrome: Permite activar y desactivar JavaScript por sitio y es ideal para pruebas rápidas con DevTools(conjunto de herramientas integradas en navegadores).
+2.Firefox: Tiene un manejo fino desde about:config, además es muy util para desarrolladores o incluso pruebas de seguridad, una de sus ventajas más utiles seria que los cambios se aplican al instante.
+3.Safari: En este navegador existe un menú oculto llamado “Desarrollo” que da acceso a herramientas para programadores.Además cuenta tambien con la activación y desactivación de JavaScript.
+4.Opera: Este navegador tambien es compatible con DevTools, además de permitir simular resoluciones de teléfonos, otra de las ventajas es que permite separar entornos o proyectos web.
+5.Brave: Cuenta tambien con muchas de las ventajas de chrome para el desarrollo, tambien es muy veloz incluso con JavaScript pesado además cuenta con un bloqueo avanzado de rastreadores y scripts que puede ser  útil para probar cómo reacciona tu web sin dependencias externas.
